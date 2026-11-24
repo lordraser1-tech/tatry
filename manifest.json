@@ -1,0 +1,17 @@
+{
+  "name": "Tatry: Granica Decyzji",
+  "short_name": "Tatry",
+  "lang": "pl",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EEF3F7",
+  "theme_color": "#1F3A4D",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
